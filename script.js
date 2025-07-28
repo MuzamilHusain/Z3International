@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     alertBox.innerHTML = `
       <div style="display: flex; align-items: center; font-size: 1.1rem; color: white;">
-        <img src="./images/cons-l.jpg" alt="Update Icon" style="width: 5rem; height: 5rem; margin-right: 12px;">
+        <img src="./Images/cons-l.jpg" alt="Update Icon" style="width: 5rem; height: 5rem; margin-right: 12px;">
         <span>
           <strong>Heads up!</strong> Our website is currently being updated. You can still contact us using the form below.
         </span>
