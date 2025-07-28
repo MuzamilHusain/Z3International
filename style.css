@@ -17,6 +17,7 @@
   flex-direction: column;
   background: url(Images/images-2.jpg);
   background-size: cover;
+  background-color: #183438;
 }
 
 .contact .content {
