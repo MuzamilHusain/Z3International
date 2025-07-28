@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
     alertBox.innerHTML = `
       <span style="position: absolute; top: 6px; right: 10px; font-size: 1.2rem; font-weight: bold; color: red; cursor: pointer;" onclick="this.parentElement.style.display='none';">✖</span>
       <img src="/Images/cons-l.jpg" alt="Update Icon" style="width: 2.2rem; height: 2.2rem; margin-right: 10px; flex-shrink: 0;" />
-      <span style="flex: 1;">We're updating — contact us if needed.</span>
+      <span style="flex: 1;"> Our website is currently being updated. You can still contact us using the form below.</span>
     `;
   }
 
