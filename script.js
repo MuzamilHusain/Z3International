@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
       display: "flex",
       alignItems: "center",
       justifyContent: "flex-start",
-      padding: "30px 10px 17px 10px;",
+      padding: "30px 10px 18px 10px",
       backgroundColor: "rgb(20 69 123 / 83%)",
       color: "white",
       fontSize: "0.9rem",
