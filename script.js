@@ -44,19 +44,19 @@ document.addEventListener("DOMContentLoaded", function () {
       display: "flex",
       alignItems: "center",
       justifyContent: "flex-start",
-      padding: "10px",
+      padding: "30px 10px 17px 10px;",
       backgroundColor: "rgb(20 69 123 / 83%)",
       color: "white",
       fontSize: "0.9rem",
       fontFamily: "Arial, sans-serif",
-      width: "90%",
+      width: "95%",
       maxWidth: "800px",
       boxShadow: "0 2px 10px rgba(0,0,0,0.1)",
       borderRadius: "6px"
     });
 
     alertBox.innerHTML = `
-      <span style="position: absolute; top: 2px; right: 5px; font-size: 1.2rem; font-weight: bold; color: rgb(238, 4, 4); cursor: pointer;" onclick="this.parentElement.style.display='none';">✖</span>
+      <span style=" position: absolute; top: 2px; right: 7px; font-size: 1.4rem; font-weight: bold; color: rgb(238, 4, 4); cursor: pointer;" onclick="this.parentElement.style.display='none';">✖</span>
       <img src="/Images/cons-l.jpg" alt="Update Icon" style="width: 2.2rem; height: 2.2rem; margin-right: 10px; flex-shrink: 0;" />
       <span style="flex: 1;"> Our website is currently being updated. You can still contact us using the form below.</span>
     `;
